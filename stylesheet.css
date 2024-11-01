@@ -1,0 +1,41 @@
+body {
+    background-color: #ffecda;
+}
+
+.title-box {
+    color:#59382c;
+    font-size: 40px;
+    margin-bottom: -30px ;
+}
+
+.wrapper {
+    width: 85%;
+}
+
+.information-box {
+    float: left;
+}
+
+.heading-box {
+    color:#cd7a98;
+}
+
+.info-box {
+    color:#59382c;
+    margin-left: 100px;
+    margin-bottom: 100px;
+}
+
+.infobody-box {
+    color: #cd7a98;
+}
+
+.update-box {
+    margin-left: 50px;
+}
+
+img {
+    border: 3px solid #cd7a98;
+    border-radius: 10px;
+    margin-left: 15px;
+}
